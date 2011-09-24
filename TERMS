@@ -1,0 +1,5 @@
+This document should contain all the terms which are being used in this project whose usage for this project differs from their normal usage. If any terms are being used for this project which are not being used in the way they would normally be used, please add those terms to this list.
+
+1) golang - refers to Google Go. "Go" tends to be a generic and often used term. As such it will often get confusing if we try to use "Go" on it's own.
+
+2) "the Markov Model" - refers to the Hidden Markov Model which will be an integral part of the Voice Recognition system.

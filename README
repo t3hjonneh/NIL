@@ -1,1 +1,9 @@
-NIL stands for Natural Interface Library. However, it also stands for nil as in nothing, null, nada. This might become CoIL if we don't use GO.
+NIL stands for Natural Interface Library. However, it also stands for nil as in nothing, null, nada. This might become CoIL (for Command Interface Library) if we don't use GO.
+
+READMEs will contain explanations of the various parts of the system and how they fit into the system as a whole.
+
+TODOs will contain all the different pieces of and problems with the different parts of the system
+
+TERMS will contain a basic explanation of the terms being used as well as the shorthand for those terms and an explanation for the shorthand if necessary.
+
+Please document all code before submitting.

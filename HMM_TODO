@@ -1,0 +1,17 @@
+1) First I will create an actual Markov Model (see below for details on both the Markov Model and the Hidden Markov Model). This will involve creating a set of states which can be you can move between and a function which transfers the model between each of the states. At this point there will be a fixed probability of going from any one state to any other state.
+
+2) Then I will create a function which anylizes the movements between these different states to derive the probability of moving from any state to any other state. This task will be complete when we can accurately anilyze the probabilities which are given in stage 1.
+
+3) Next I will create a make the model in stage 1 more complex such that from any state there is a probability of moving to a different state such that the probability of moving to the new state is contingent on the old state.
+
+4) I will make the function from stage 2 more complex such that it can determine the probabilities in stage 3. This task will be complete when we can accurately anilyze the probabilities which are given in stage 3.
+
+5) I will alter the function in stage 3 such that it takes in an "observation" which influences the probability by which it will move to a new state such that the observation does not guarantee any specific state but it does influence the transition.
+
+6) I will make the function from stage 4 more complex such that it takes into account the "observation" and learns the impact the "observation" will have on the results. This stage will be complete when we can accurately predict the new function in stage 5.
+
+(MEETING will be necessary at this point to flush out how we want to approach user input for stage 7 and stage 8 as well as the output which the HMM will give)
+
+7) The model from stage 5 will be removed and the model from stage 6 will be made ready to get feedback from the user.
+
+8) Sound based inputs (likely from another module which does feature extraction) will be used in the HMM to determine output.
