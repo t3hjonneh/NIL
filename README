@@ -7,3 +7,9 @@ TODOs will contain all the different pieces of and problems with the different p
 TERMS will contain a basic explanation of the terms being used as well as the shorthand for those terms and an explanation for the shorthand if necessary.
 
 Please document all code before submitting.
+
+Compileing with godag:
+1) change director to NIL
+2) type "gd src"
+3) type "gd -o nil"
+4) run with "./nil"
