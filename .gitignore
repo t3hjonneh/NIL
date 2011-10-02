@@ -1,2 +1,4 @@
-*.8 # we don't need to add compiled source
-nil # we don't need to add the executable
+# we don't need to add compiled source
+*.8
+# we don't need to add the executable
+nil
