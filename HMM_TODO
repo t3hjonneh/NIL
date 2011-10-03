@@ -1,5 +1,6 @@
 COMPLETED:
 stage 1
+stage 2
 
 TODO:
 1) First I will create an actual Markov Model (see below for details on both the Markov Model and the Hidden Markov Model). This will involve creating a set of states which can be you can move between and a function which transfers the model between each of the states. At this point there will be a fixed probability of going from any one state to any other state.

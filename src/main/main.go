@@ -15,6 +15,9 @@ Likewise the code can be restored by replacing the first / at the beginning of t
 Naming convention: Test functions should have "test_" at the front of them.
 */
 
+func test_model() {
+	hmm.Model()
+}
 
 func test_atomaton() {
 	counters := make([]float64, 4)
@@ -37,7 +40,8 @@ func main() {
 //********************************************
 // this is the section for test code
 
-	test_atomaton()
+	//test_atomaton()
+	test_model()
 
 //********************************************/
 //********************************************
